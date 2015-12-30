@@ -1,0 +1,142 @@
+*{
+    border:0;
+    margin:0;
+    padding:0;
+}
+body{
+    background: #ccc;
+}
+#contenedor{
+    height: 1050px;
+    width: 780px;
+    margin-right: auto;
+    margin-left: auto;   
+}
+header,#banner,#noticias,#tienda, #marcas{
+    background: #fff;
+    width: 780px;
+    height: 100px;
+    header{
+    padding: 8px 15px;
+    }
+    header{
+    width: 750 px;
+    height: 100 px;
+    padding: 8px 15px;
+    }
+}
+header h1{
+    background: #ccc;
+    width: 200px;
+    height: 100px; 
+    display: inline-block
+    
+}
+header #menu{
+    background: #ccc;
+    width: 440px;
+    height: 100;
+    display: inline-block
+    
+}
+#banner{
+    background: #7D7F7F;
+    background-image: url(/img/CAmpo1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100%;    
+}
+#noticias{
+    background: #fff;
+    height: 225px;
+    width: 760px;
+    padding-left:10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    text-align: center;
+}
+#Tienda{
+    width: 760PX;
+    background: #666;
+    height: 190px;
+    padding-left:10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    text-align: center;
+}
+#marcas{
+    background: #fff;
+    height: 100px;    
+}
+footer{
+    background: #f21;
+    width: 780px;
+    height: 40px;
+    padding-top:15px; 
+}
+footer p{
+    font-family: arial;
+    font-size: 10px;
+    text-align: center;
+    }
+#noticias #MMB{
+    background: #F4BB7F;
+    width: 250px;
+    height: 215px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center
+}
+#noticias #MMC{
+    background: #48F562;
+    width: 250px;
+    height: 215px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: justify;
+}
+#noticias #MMM{
+    background: #7FF4F4;
+    width: 250px;
+    height: 215px;
+    display: inline-block;
+    vertical-align: top;
+}
+.espacio{
+    width: 780;
+    height: 10px;
+    background: #fff;
+}
+#Tienda #NIKE{
+    background: #C0C1C1;
+    width: 180px;
+    height: 180px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 2px;
+    image-resolution: from-image;
+   }
+#Tienda #ADIDAS{
+    background: #C0C1C1;
+    width: 180px;
+    height: 180px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 2px;
+}
+#Tienda #NEWBALANCE{
+    background: #C0C1C1;
+    width: 180px;
+    height: 180px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 2px;
+}
+#Tienda #SAUCONY{
+    background: #C0C1C1;
+    width: 180px;
+    height: 180px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 2px;
+}
